@@ -46,7 +46,7 @@ There does seem to be a link between a child's diet and whether or not that chil
 
 - The chi test is a test of independance to test the null hypothesis that there is no association betweenn diet regiman and developing a peanut allergy. From the test we can see test 
 
-- We can see that the test statistic is 𝜒<sup>2<sup> = 33.683 and the p - value is almost 0. 
+- We can see that the test statistic is 𝜒<sup>2</sup> = 33.683 and the p - value is almost 0. 
 
 
 # Construction of 95% Confidence Interval 
