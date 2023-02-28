@@ -1,4 +1,4 @@
-# A correlation analysis on the relationship between a child's diet regiman and peanut allergies. 
+# A Correlation Analysis on the relationship between a child's diet regiman and peanut allergies. 
 
 # About this Project
 
