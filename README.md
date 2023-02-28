@@ -1,4 +1,4 @@
-# Analysis-and-Visualization-of-Peanut-Allergy-Experiment-
+# A correlation analysis on the relationship between a child's diet regiman and peanut allergies. 
 
 # About this Project
 
